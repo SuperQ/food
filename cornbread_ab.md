@@ -4,15 +4,15 @@ Yield: 8 servings
 
 ### Ingredients:
 
-* 2 cups yellow cornmeal
+* 350g (12oz) stone-ground cornmeal*
 * 1 teaspoon kosher salt
 * 1 tablespoon sugar
 * 2 teaspoons baking powder
 * 1/2 teaspoon baking soda
-* 1 cup buttermilk
-* 2 eggs
-* 1 cup creamed corn
-* 2 tablespoons canola oil
+* 300g (10oz) ounces low-fat buttermilk
+* 2 large eggs
+* 250g (8oz) creamed corn (homemade strongly recommended)
+* 2 tablespoons corn or vegetable oil
 
 ### Directions
 
