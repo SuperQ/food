@@ -4,7 +4,7 @@ Yield: 8 servings
 
 ### Ingredients:
 
-* 350g (12oz) stone-ground cornmeal*
+* 350g (12oz) stone-ground cornmeal
 * 1 teaspoon kosher salt
 * 1 tablespoon sugar
 * 2 teaspoons baking powder
@@ -34,7 +34,7 @@ Ingredients
 * 1 tablespoon unsalted butter
 * 1/2 medium (about 4 ounces) onion, diced fine
 * 2 pinches kosher salt
-* 1 sprig rosemary, bruised (this is, crushed roughly between your hands)*
+* 1 sprig rosemary, bruised (this is, crushed roughly between your hands)[0]
 * 6 cups of corn (1.5kg) (8 ears fresh corn)
 * 1 tablespoon sugar
 * 1/4 teaspoon ground turmeric (to up the yellow a bit)
@@ -53,4 +53,4 @@ Instructions
 * Fish out the rosemary, season with pepper and serve as a side to just about anything, or use to make cornbread (check the other posts).
 
 Notes
-*Rosemary is my favorite herb to pair with corn. The resinous, evergreen flavor (not to mention aroma) balances the sweet, grassiness of the corn.
+[0]: Rosemary is my favorite herb to pair with corn. The resinous, evergreen flavor (not to mention aroma) balances the sweet, grassiness of the corn.
