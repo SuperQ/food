@@ -1,16 +1,16 @@
+# Sugar cookies
 
-3 cups all-purpose flour (300g)
-3/4 teaspoon baking powder
-1/4 teaspoon salt
-1 cup unsalted butter, softened (100g)
-1 cup sugar (160g)
-1 egg, beaten
-1 tablespoon milk
-Powdered sugar, for rolling out dough
+* 425g all-purpose flour
+* 1 teaspoon baking powder
+* 0.5 teaspoon salt
+* 250g unsalted butter, softened / room temp
+* 200g sugar
+* 2 egg, beaten
+* 1 Tbl extract
 
 * Sift together flour, baking powder, and salt.
 * Place butter and sugar in large bowl of electric stand mixer and beat until light in color.
-* Add egg and milk and beat to combine.
+* Add egg and extract and beat to combine.
 * Put mixer on low speed, gradually add flour
 * Beat until mixture pulls away from the side of the bowl.
 * Divide the dough in half, wrap in waxed paper, and refrigerate for 2 hours.
