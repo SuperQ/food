@@ -1,16 +1,16 @@
 # Belgian Liege Waffles
 
 ## Ingredients
-* 470g Pastry flour
-* 170g Warm milk
-* 40g fresh yeast
+* 470g Pastry flour (750g)
+* 170g Warm milk (270g)
+* 40g fresh yeast (70g)
 * 2 eggs
 * 1 egg yolks
 * Vanilla sugar
 * Salt
 
-* 250g butter room temp
-* 300g sugar
+* 250g butter room temp (400g)
+* 300g sugar (500g)
 
 ## Prepare dough
 * Mix flour, milk, yeast, eggs, vanilla, salt.
