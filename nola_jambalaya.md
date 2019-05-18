@@ -10,8 +10,8 @@ https://neworleansschoolofcooking.com/
 * ~700g (1 1/2 lbs.) smoked sausage 
 * 800g (4 Cup) long grain rice
 * 1.2L (5 Cup) stock
-* (0.25 Cup) Joe's Stuff seasoning blend
-* (0.5 Cup) sliced dry garlic
+* 30g (0.25 Cup) Joe's Stuff seasoning blend
+* 60g (1 Cup) sliced dry garlic
 
 ### Sofrito:
 * 500g (4 Cup) chopped onions 
