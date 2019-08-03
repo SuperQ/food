@@ -35,11 +35,11 @@ Ingredients
 * 1/2 medium (about 4 ounces) onion, diced fine
 * 2 pinches kosher salt
 * 1 sprig rosemary, bruised (this is, crushed roughly between your hands)[0]
-* 6 cups of corn (1.5kg) (8 ears fresh corn)
+* 700g corn
 * 1 tablespoon sugar
 * 1/4 teaspoon ground turmeric (to up the yellow a bit)
-* 2 tablespoons stone-ground cornmeal
-* 1 cup heavy cream 
+* 1 tablespoons stone-ground cornmeal
+* 250ml
 * 1 pinch black pepper, freshly ground
 
 Instructions
