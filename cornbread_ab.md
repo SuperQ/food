@@ -32,10 +32,10 @@ Recipe courtesy of Alton Brown
 Serves 6
 Ingredients
 * 1 tablespoon unsalted butter
-* 1/2 medium (about 4 ounces) onion, diced fine
+* 100g (1/2 medium) onion, diced fine
 * 2 pinches kosher salt
 * 1 sprig rosemary, bruised (this is, crushed roughly between your hands)[0]
-* 700g corn
+* 1 kg corn
 * 1 tablespoon sugar
 * 1/4 teaspoon ground turmeric (to up the yellow a bit)
 * 1 tablespoons stone-ground cornmeal
