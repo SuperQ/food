@@ -1,11 +1,13 @@
-500 cups milk
-100g unsalted butter
-15 grams sugar (1 tablespoon)
-5 grams salt (1 teaspoon)
-1 package active dry yeast (2 1/4 teaspoons)
-300 grams flour
-2 large eggs
-¼ teaspoon baking soda
+# Yeast waffles
+
+* 500g milk
+* 100g unsalted butter
+* 15 grams sugar
+* 8g salt
+* 1 package active dry yeast (2 1/4 teaspoons)
+* 300g flour
+* 2 large eggs
+* ¼ teaspoon baking soda
 
 Combine 1/2 cup warm water and yeast. Let stand until foamy, about 5 minutes.
 
