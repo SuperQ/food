@@ -9,7 +9,7 @@ http://www.seriouseats.com/recipes/2015/08/the-food-lab-buttermilk-biscuits-reci
 * 300g all-purpose flour, plus additional for dusting
 * 1 tablespoon baking powder
 * 1/4 teaspoon baking soda
-* 1 1/2 teaspoons kosher salt
+* 7g teaspoons kosher salt
 * 125g cold unsalted butter
 
 ## Directions
