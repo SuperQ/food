@@ -39,7 +39,7 @@ Ingredients
 * 1 tablespoon sugar
 * 1/4 teaspoon ground turmeric (to up the yellow a bit)
 * 1 tablespoons stone-ground cornmeal
-* 250ml
+* 250ml cream
 * 1 pinch black pepper, freshly ground
 
 Instructions
