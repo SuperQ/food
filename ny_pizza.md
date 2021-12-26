@@ -1,6 +1,6 @@
 # New York pizza
 
-Source: http://slice.seriouseats.com/archives/2012/07/the-pizza-lab-three-doughs-to-know.html
+Source: [The Pizza Lab: Three Doughs to Know](https://www.seriouseats.com/the-pizza-lab-three-doughs-to-know)
 
 For ~4 pizzas:
 * All-purpose or bread flour: 100% (500g); bread flour is best, but all-purpose will do just fine.
