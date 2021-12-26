@@ -2,7 +2,7 @@
 
 Source: [The Pizza Lab: Three Doughs to Know](https://www.seriouseats.com/the-pizza-lab-three-doughs-to-know)
 
-For ~4 pizzas:
+## Ingredients (for ~4 pizzas)
 * All-purpose or bread flour: 100% (500g); bread flour is best, but all-purpose will do just fine.
 * Sugar: 2% (10g)
 * Salt: 1.5% (7.5g)
