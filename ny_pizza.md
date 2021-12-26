@@ -2,6 +2,8 @@
 
 Source: [The Pizza Lab: Three Doughs to Know](https://www.seriouseats.com/the-pizza-lab-three-doughs-to-know)
 
+This recipe assumes you know what [_the windowpane test_](https://www.seriouseats.com/technique-the-windowpane-test-for-pizza-dough) means, and [how to activate yeast](https://greatist.com/eat/how-to-activate-yeast#purpose) if the type of yeast that you are using requires it.
+
 ## Ingredients (for ~4 pizzas)
 * Bread flour or all-purpose flour: 100% (500g); bread flour is best, but all-purpose will do just fine.
 * Sugar: 2% (10g)
