@@ -6,7 +6,7 @@ For ~4 pizzas:
 * All-purpose or bread flour: 100% (500g); bread flour is best, but all-purpose will do just fine.
 * Sugar: 2% (10g)
 * Salt: 1.5% (7.5g)
-* Instant yeast: 1.5% (7.5g); fresh yeast (25g)
+* Instant yeast: 1.5% (7.5g); fresh yeast (30g)
 * Olive oil: 5% (25g)
 * Water: 67% (333g)
 
