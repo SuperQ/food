@@ -3,15 +3,15 @@
 ## Ingredients
 
 Dry:
-* 300g all-purpose flour
-* 8g salt
-* 8g baking soda
+* 250g all-purpose flour
+* 5g salt
+* 5g baking powder
 
 Wet:
-* 50g sugar
-* 500ml buttermilk, milk, or some combo of the two.
+* 30g sugar
+* 375ml buttermilk, milk, or some combo of the two.
 * 2 eggs
-* 100g butter
+* 40g butter
 * 15ml vanilla extract
 
 ## Directions
